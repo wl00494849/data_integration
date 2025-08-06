@@ -1,0 +1,8 @@
+向量表檔案太大，如果有需要再聯繫我。
+或用Tool資料夾內工具自行處理。
+
+DataList_VectorTable.csv
+欄位Col:
+dataset_Name = 資料集名稱
+dimension = 詞向量
+url = 資料網址

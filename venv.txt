@@ -1,0 +1,12 @@
+## 建立虛擬機
+python3.12 -m venv myenv
+
+## 進入虛擬機
+source myenv/bin/activate
+
+## 下載requirements中的依賴套件
+pip3 install --upgrade pip
+pip3 install -r requirements.txt
+
+## 建立.env檔 輸入GPT API_KEY
+API_KEY="自己GPT_API_KEY"

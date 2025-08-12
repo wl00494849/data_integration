@@ -1,5 +1,5 @@
 pandas==2.2.3
 requests
-openai
+openai==1.99.1
 scikit-learn
 dotenv

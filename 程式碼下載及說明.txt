@@ -1,3 +1,7 @@
+
+先從github clone
+github：https://github.com/wl00494849/data_integration
+
 1. 先建立python虛擬機(參照venv.txt檔)
 
 ## 執行資料整合例子
@@ -6,5 +10,9 @@ python3 data_integration_test.py
 python3 opendata_search.py
 
 剩下的可以根據自己的需求調整程式內容
-github：https://github.com/wl00494849
+
 聯絡方式：zhung1027@gmail.com
+
+可以考慮用GPT的Tool Use
+或MCP Server的寫法可以參考
+https://github.com/wl00494849/Lucy-agent
